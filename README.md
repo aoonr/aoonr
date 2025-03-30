@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aoonr
+- 👋 Hi, I’m @aoonr , I am not coder, rather a user of codes other people or machines 👀 have generated! 
 - 👀 I’m interested in image analysis pipelines for condensate biology and material science
 - 🌱 I’m currently learning cryo-ET data collection and work up
 - 💞️ I’m looking to collaborate on autmation of analysis tasks
